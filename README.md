@@ -4,7 +4,7 @@
 
 #### Abstract
 
-WebID defines a standard means by which user agents and servers interact to establish a user's identity, ensuring a structured, decentralized approach for identity discovery on the web. This specification delineates a URI that dereferences to an RDF response, asserting a `webid:Agent` to qualify as a WebID. This spec encompasses an open-ended list of sub-specifications, each addressing a valid RDF response type.
+WebID defines a standard means by which user agents and servers interact to establish a user's identity, ensuring a structured, decentralized approach for identity and discovery on the web. This specification delineates a URI that dereferences to an RDF response, asserting a `webid:Agent` to qualify as a WebID. This spec encompasses an open-ended list of sub-specifications, each addressing a valid RDF response type.
 
 #### Table of Contents
 
